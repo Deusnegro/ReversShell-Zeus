@@ -12,6 +12,6 @@
     <img src="https://img.shields.io/badge/python-v3.9.5-blue">
   </a>
  <a href="https://php.net">
-    <img src="https://img.shields.io/badge/php-8.0.0-Black"
+    <img src="https://img.shields.io/badge/php-8.0.0-black"
          alt="php">
 
