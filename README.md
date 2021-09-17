@@ -5,4 +5,11 @@
  to send over commands to execute on the victim's computer and to get results back
  
  
- <a href="https://uupload.ir/view/download_epop.png" target="_blank"><img src="https://s4.uupload.ir/files/download_epop_thumb.png" border="0" alt="آپلود عکس" /></a>
+ <a href="https://uupload.ir/view/download_epop.png" target="_blank"><img src="https://s4.uupload.ir/files/download_epop_thumb.png" border="0" alt="Revers Shell" /></a>
+
+
+<h1 align="center">
+  <br>
+  <a href="https://github.com/Deusnegro"><img src="https://s4.uupload.ir/files/download_epop_thumb.png" alt="Revers Shell"></a>
+
+</h1>
