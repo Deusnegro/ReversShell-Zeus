@@ -6,6 +6,7 @@
  
  
  <a href="https://github.com/Deusnegro" target="_blank"><img src="https://s4.uupload.ir/files/download_epop_thumb.png" border="0" alt="Revers Shell" /></a>
+ <a href="https://github.com/Deusnegro" target="_blank"><img src="https://s4.uupload.ir/files/omidomid_amy2_thumb.jpg" border="0" alt="Revers Shell" /></a>
  
  <p align="center">
   <a href="http://python.org">
