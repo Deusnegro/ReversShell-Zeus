@@ -6,4 +6,9 @@
  
  
  <a href="https://github.com/Deusnegro" target="_blank"><img src="https://s4.uupload.ir/files/download_epop_thumb.png" border="0" alt="Revers Shell" /></a>
+ 
+ <p align="center">
+  <a href="http://python.org">
+    <img src="https://img.shields.io/badge/python-v3.9.5-blue">
+  </a>
 
